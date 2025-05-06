@@ -1,0 +1,110 @@
+﻿  brick pong.cpp
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(84,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(85,126): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(86,283): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(87,250): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(88,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(89,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(90,113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(90,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(91,140): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(91,107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(92,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(92,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(93,107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(93,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(109,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(109,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(109,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(126,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(186,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(228,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(323,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(324,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(340,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(341,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(346,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(347,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(348,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(351,26): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(353,20): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(354,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(359,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(360,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(361,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(364,24): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(366,20): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(367,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(372,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(373,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(374,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(377,26): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(383,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(384,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(389,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(390,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(391,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(394,26): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(396,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(397,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(400,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(401,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(402,24): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(405,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(406,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(411,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(412,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(413,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(416,26): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(422,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(423,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(424,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(427,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(428,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(430,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(431,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(433,29): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(434,24): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(435,24): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(437,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(438,25): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(441,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(442,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(444,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(445,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(447,29): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(448,24): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(449,24): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(451,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(452,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(453,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(456,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(457,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(473,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(473,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(474,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(474,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(505,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(563,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(569,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(574,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(575,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(583,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(583,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(583,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(583,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(589,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(591,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(732,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(733,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(742,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(781,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(782,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(798,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(800,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(800,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(801,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Linas\Desktop\pongas\brick pong\brick pong.cpp(801,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  brick pong.vcxproj -> C:\Users\Linas\Desktop\pongas\brick pong\x64\Debug\brick pong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

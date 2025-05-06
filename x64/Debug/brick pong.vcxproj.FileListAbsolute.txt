@@ -1,0 +1,3 @@
+C:\Users\Linas\Desktop\pongas\brick pong\x64\Debug\brick pong.vcxproj.CopyComplete
+C:\Users\Linas\Desktop\pongas\brick pong\x64\Debug\brick pong.exe
+C:\Users\Linas\Desktop\pongas\brick pong\x64\Debug\raylib.dll
