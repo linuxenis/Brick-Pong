@@ -1,0 +1,26 @@
+name: Build and Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install CMake
+        uses: lukka/get-cmake@latest
+
+      - name: Configure
+        run: cmake -B build -DCMAKE_BUILD_TYPE=Release
+
+      - name: Build
+        run: cmake --build build --config Release
+
+      - name: Upload Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: build/Release/BrickPong.exe
